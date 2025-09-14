@@ -4,6 +4,5 @@ scikit-learn
 gTTS
 SpeechRecognition
 pydub
-streamlit-mic-recorder
+streamlit_mic_recorder
 openpyxl
-streamlit-mic-recorder
