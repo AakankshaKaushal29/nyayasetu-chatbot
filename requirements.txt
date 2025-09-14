@@ -1,9 +1,7 @@
-streamlit 
-pandas 
-scikit-learn 
-gTTS 
-streamlit-mic-recorder 
-openpyxl 
-plotly
+streamlit
+pandas
+scikit-learn
+gTTS
+streamlit-mic-recorder
 SpeechRecognition
-soundfile
+pydub
