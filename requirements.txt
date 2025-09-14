@@ -2,7 +2,7 @@ streamlit
 pandas
 scikit-learn
 gTTS
-SpeechRecognition
-pydub
-streamlit_mic_recorder
+streamlit-mic-recorder
 openpyxl
+plotly
+
