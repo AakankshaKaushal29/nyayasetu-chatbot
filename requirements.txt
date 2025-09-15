@@ -7,4 +7,4 @@ pydub
 googlesearch-python-new
 nltk
 streamlit-mic-recorder
-googletrans==4.0.0-rc1
+googletrans
