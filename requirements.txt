@@ -1,10 +1,6 @@
 streamlit
 pandas
-gTTS
-openpyxl
-streamlit-mic-recorder
-SpeechRecognition
-pydub
-numpy
-scikit-learn
-
+googletrans==4.0.0rc1
+beautifulsoup4
+requests
+googlesearch-python
