@@ -3,5 +3,4 @@ pandas
 scikit-learn
 gTTS
 streamlit-mic-recorder
-SpeechRecognition
-pydub
+
