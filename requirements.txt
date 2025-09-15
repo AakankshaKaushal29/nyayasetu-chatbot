@@ -1,6 +1,10 @@
 streamlit
 pandas
-googletrans==4.0.0rc1
-beautifulsoup4
-requests
-googlesearch-python
+scikit-learn
+gTTS
+SpeechRecognition
+pydub
+googlesearch-python-new
+nltk
+streamlit-mic-recorder
+googletrans==4.0.0-rc1
