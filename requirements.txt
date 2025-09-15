@@ -4,6 +4,4 @@ scikit-learn
 gTTS
 SpeechRecognition
 pydub
-streamlit-mic-recorder
-googletrans
 
